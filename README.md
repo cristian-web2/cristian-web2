@@ -1,13 +1,11 @@
 
 **cristian-web2/cristian-web2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-                                                     welcome👋
+                                                     𝐖𝐄𝐋𝐂𝐎𝐌𝐄👋
+                                    🙋‍♂️ My name is Cristian Castro Ticona
 Information about me, I hope you like it 😎
-
-- 🙋‍♂️ My name is Cristian Castro Ticona
 - 💻 study: systems engineering 
-- 🔭 I’m currently working on security guard
-- 🌱 I’m currently learning to handle programming languages
+- 🌱 I am currently learning to use programming languages ​​such as: C++ , java, python, postgreSQ, java Script
 - 🐺 I love little animals, especially wolves.
 - 💬 Ask me about my past times
 - 📫 How to reach me: by my email: cristian.castro.ticona@gmail.com 
