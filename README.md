@@ -1,8 +1,8 @@
-  welcome👋
 
 **cristian-web2/cristian-web2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+                                                     welcome👋
+Information about me, I hope you like it 😎
 
 - 🙋‍♂️ My name is Cristian Castro Ticona
 - 💻 study: systems engineering 
