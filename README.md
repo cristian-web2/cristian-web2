@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my past times
 - 📫 How to reach me: by my email: cristian.castro.ticona@gmail.com 
 - ⚡ Fun fact: I love playing online games
+- 💪 A motivational quote: Success isn't final; failure isn't fatal. What really counts is having the courage to continue.
 -->
